@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { ProductService } from 'app/product.service';
-import { cwd } from 'process';
 
 @Component({
   selector: 'app-product-description',
